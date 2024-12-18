@@ -1,0 +1,11 @@
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.csproj.AssemblyReference.cache
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.csproj.SuggestedBindingRedirects.cache
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.Form1.resources
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.Properties.Resources.resources
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.csproj.GenerateResource.cache
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.csproj.CoreCompileInputs.cache
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\bin\Debug\CalculatorSire.exe.config
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\bin\Debug\CalculatorSire.exe
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\bin\Debug\CalculatorSire.pdb
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.exe
+C:\Users\WGS 17\Desktop\Programming L\CalculatorSire\obj\Debug\CalculatorSire.pdb
